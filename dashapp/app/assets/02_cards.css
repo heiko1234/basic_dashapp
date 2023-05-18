@@ -19,10 +19,13 @@
     width: 100%;
     height: 100%;
     box-sizing: border-box;
-    text-align: center;
+    /* text-align: center; */
     place-content: center;
 }
 
+.gnc-card-container{
+    text-decoration: none;
+}
 
 .gnc-topbar{
     background: linear-gradient(153deg, #3EC6CB, #1BC99F);
@@ -33,19 +36,22 @@
     overflow: hidden;
 }
 
-
-.gnc-card-container{
-    text-decoration: none;
-}
-
 .gnc-card-contant{
     display: block;
     text-decoration: none;
     overflow: hidden
 }
 
+.gnc-header_text{
+    text-align: left;
+    padding-left: 20px;
+}
 
 
+.gnc-description{
+    text-align: center;
+    padding-left: 20px;
+}
 
 
 

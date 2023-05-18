@@ -10,3 +10,9 @@ Start was this link: https://community.auth0.com/t/actions-integrations-are-now-
 
 
 
+
+## Actual Layout
+
+![actual_layout](./assets/basic_app.png)
+
+
