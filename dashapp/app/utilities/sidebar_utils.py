@@ -29,7 +29,7 @@ def icon_and_text(
             style={"display": "flex", "height": "60px", "width": "60px"}
             ),
             html.H3(text, style={"margin-left": "15px"})
-        ], 
+        ],
         style={"display": "flex", "aling-center": "bottom"},
         href=href,
     )
